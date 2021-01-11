@@ -12,3 +12,7 @@
 5.  [Murad](https://signal.art/addstickers/#pack_id=343cd1e8141d47fd5a6f07047ec5be90&pack_key=5848ff2bd4c69cdc948c98b1a448a9bd3619aabe4b4fdb0c34b6426e2d904772)
 6. [plain face](https://signal.art/addstickers/#pack_id=2cbd220e4c256804bd892b86ab1d41ef&pack_key=9003715b50fd1c0eb527e6f3256fe3885ea351f907ec23ffa25c80ef55b98c70)
 7.  [b](https://signal.art/addstickers/#pack_id=49e17d67558610d2eba06087d9b9d26d&pack_key=5119c263757cb3ae2dee151549df15d46dead273d6ea9b7467220dc8e4748da3)
+8.  [kats for rami](https://signal.art/addstickers/#pack_id=44f2c56da64f11fb32f5c345b6554968&pack_key=fa0dff5cd2dd425401f93c40336527fca9ba4763d5b5d7b9315f158976751028)
+# Other Recommended Resources
+-   Twitter
+    -   [account1](https://twitter.com/signalstickers?lang=en)
